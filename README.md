@@ -1,2 +1,2 @@
-# The-finance-stuff
+Main repository 
 Learning new skills
